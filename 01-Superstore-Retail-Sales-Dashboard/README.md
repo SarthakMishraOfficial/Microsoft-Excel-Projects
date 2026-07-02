@@ -1,4 +1,7 @@
 # Superstore Retail Sales Dashboard
+## Dashboard Preview
+
+![Dashboard](Images/DASHBOARD2.png)
 
 ## Project Overview
 
