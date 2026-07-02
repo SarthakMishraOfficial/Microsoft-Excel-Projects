@@ -54,11 +54,12 @@ The dashboard helps users understand:
 
 ---
 
-## Dashboard Preview
+## Business Insights
 
-(Add dashboard image here later)
-
----
+- The Technology category generated the highest sales.
+- The West region recorded the strongest sales performance.
+- Office Supplies showed lower profit margins than Furniture.
+- Interactive slicers allow users to filter data by different dimensions.
 
 ## Project Files
 
@@ -69,5 +70,9 @@ The dashboard helps users understand:
 ---
 
 ## Author
+## Connect With Me
 
+**GitHub:** https://github.com/SarthakMishraOfficial
+
+**LinkedIn:** https://www.linkedin.com/in/SarthakMishraOfficial
 Sarthak Mishra
