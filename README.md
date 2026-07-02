@@ -1,3 +1,7 @@
+## Dashboard Preview
+
+![Dashboard](Images/DASHBOARD.png)
+
 # 📊 Microsoft Excel Projects Portfolio
 
 Welcome to my Microsoft Excel portfolio.
